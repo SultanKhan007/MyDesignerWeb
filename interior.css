@@ -1,0 +1,50 @@
+.main-div1{
+    background-color: black;
+    height: 50px;
+}
+.input1{
+    margin-left: 1000px;
+    position: absolute;top: 15px;
+    border-radius: 30px;
+    height: 30px;
+    
+}
+.btn1{
+    margin-left: 1220px;
+    position: absolute;
+    top: 23px;
+}
+.btn2{
+    margin-left: 1280px;
+    position: absolute;
+    top: 22px;
+}
+.btn3{
+    margin-left: 1305px;
+    position: absolute;
+    top: 23px;
+
+}
+.btn4{
+    margin-left: 1340px;
+    position: absolute;
+    top: 24px;
+}
+.btn5{
+    margin-left: 1380px;
+    position: absolute;
+    top: 23px;
+}
+.main-div2{
+    background-color:white;
+    height: 200px;
+}
+.main-div3{
+    background-color: rgb(101, 167, 101);
+    height: 70px;
+}
+.main-div4{
+    background-image: url(./villa3.jpg);
+    height: 600px;
+    
+}
